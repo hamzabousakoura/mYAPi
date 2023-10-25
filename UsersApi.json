@@ -1,0 +1,33 @@
+{
+  "coun":[
+      {
+        "id": 1,
+        "nomsal": "dhmani",
+       "prenomsal": "mrouan",
+       "fonction": "ts",
+       "service": {
+         "codeserv": 1,
+          "nomserv": "développement"
+        }
+      },
+      {
+        "id": 2,
+        "nomsal": "elyoussfi",
+       "prenomsal": "anass",
+       "fonction": "ts",
+       "service": {
+         "codeserv": 2,
+          "nomserv": "réseau"
+        }
+      },
+      {
+        "id": 3,
+        "nomsal": "alami",
+       "prenomsal": "ronaldo",
+       "fonction": "ts",
+       "service": {
+         "codeserv": 1,
+          "nomserv": "développement"
+        }
+      }
+    ]}
